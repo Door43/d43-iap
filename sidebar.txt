@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iap:home|Door43 (iap)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iap|d43-iap repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iap/archive/master.zip|d43-iap.zip]]
+
+**Recent Changes**
+{{changes>ns = iap}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iap|Ethnologue data]]
+
